@@ -4,7 +4,7 @@ Thank you Mriscoc from github for making the profesional firmware.
 
 
 
-# I, the writer of this github post, will not be responsible for any damages caused by the ones who followed this. For example of damages: broken toolhead, probe, etc...). This tutorial was writen based on my experience. All the firmwares compiling was done on Windows 11. Not sure about how to do it on Linux or MacOS.
+# I, the writer of this github post, will not be responsible for any damages caused by the ones who followed this (for example of damages: broken toolhead, probe, etc...). This tutorial was writen based on my experience. All the firmwares compiling was done on Windows 11. Not sure about how to do it on Linux or MacOS.
 
 
 
