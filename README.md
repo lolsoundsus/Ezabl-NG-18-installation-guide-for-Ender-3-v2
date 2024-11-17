@@ -1,6 +1,13 @@
 # Ezabl NG 18 installation guide for Ender 3 v2
 Thank you @TheEdgeofTech, and @minimal3dp from youtube for making tutorials about this. Those tutorials will be rewriten to text and images instead of videos.
 Thank you Mriscoc from github for making the profesional firmware. 
+
+
+
+# I, the writer of this github post, will not be responsible for any damages caused by the ones who followed this. For example of damages: broken toolhead, probe, etc...). This tutorial was writen based on my experience. All the firmwares compiling was done on Windows 11. Not sure about how to do it on Linux or MacOS.
+
+
+
 # What to have to be able to do this.
 ## 1. Things
 Ezabl NG 18 from TH3D.
@@ -41,7 +48,7 @@ Allen wrenches + Wrenches (you could search for tool set or kits that are simila
 ## Hard but always free way WITH MRISCOC FIRMWARE
 If you are not willing to pay for your firmware when the coupon or the 3 months period expires, it's time to do it the hard way. This method will give you more knowledge about changing and compile your own firmware!!!!!!
 
-### To do this, you will need:
+### To do this, you will need (Files and Programs):
 1.  [Vscode or Visual Studio Code](https://code.visualstudio.com/)
   -  PlatformIO Extension (required for this guide)
   -  Auto build marlin Extension (optional but recommended)
@@ -49,3 +56,5 @@ If you are not willing to pay for your firmware when the coupon or the 3 months 
 2.  Mriscoc special configurations source code from [github](https://github.com/mriscoc/Special_Configurations)
 
 3.  [Marlin firmware](https://marlinfw.org/meta/download/). Note that I **Only tested Marlin 2.0 LTS**
+
+### 
