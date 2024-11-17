@@ -57,4 +57,4 @@ If you are not willing to pay for your firmware when the coupon or the 3 months 
 
 3.  [Marlin firmware](https://marlinfw.org/meta/download/). Note that I **Only tested Marlin 2.0 LTS**
 
-### 
+# Comming soon
